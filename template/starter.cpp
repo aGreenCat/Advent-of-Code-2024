@@ -4,13 +4,13 @@ using namespace std;
 void partOne() {
 	
 
-	printf("Solution to Part One: N/A");
+	cout << "Solution to Part One: N/A" << endl;
 }
 
 void partTwo() {
 	
 
-	printf("Solution to Part Two: N/A");
+	cout << "Solution to Part Two: N/A" << endl;
 }
 
 

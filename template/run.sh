@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ sol.cpp && input.txt | ./a.out
+g++ sol.cpp && cat input.txt | ./a.out
